@@ -1,0 +1,6 @@
+libversion_la-version.lo: version.c ../../include/xeno_config.h \
+ git-stamp.h
+
+../../include/xeno_config.h:
+
+git-stamp.h:

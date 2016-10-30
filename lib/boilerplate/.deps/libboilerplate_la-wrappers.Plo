@@ -1,0 +1,7 @@
+libboilerplate_la-wrappers.lo: wrappers.c \
+ ../../include/boilerplate/compiler.h \
+ /home/jason/tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/lib/gcc/arm-linux-gnueabihf/4.8.3/include/stddef.h
+
+../../include/boilerplate/compiler.h:
+
+/home/jason/tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/lib/gcc/arm-linux-gnueabihf/4.8.3/include/stddef.h:
